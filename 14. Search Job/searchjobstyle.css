@@ -35,18 +35,18 @@
 .job-card h3 {
     font-size: 1.8rem;
     margin-bottom: 10px;
-    color: #333;
+    color:#8d7762;
 }
 
 .job-card p {
     font-size: 1rem;
-    color: #666;
+    color: #998c7f;
     margin-bottom: 10px;
 }
 
 .apply-btn {
     display: inline-block;
-    background-color: #007BFF;
+    background-color: #998c7f;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -56,7 +56,7 @@
 }
 
 .apply-btn:hover {
-    background-color: #0056b3;
+    background-color: #8d7762;
 }
 
 .job-card:hover {
