@@ -52,7 +52,7 @@
     font-size: 22px;
     text-align: start;
     width: 100%;
-    color: #7f8c8d;
+    color: #998c7f;
     margin-bottom: 10px;
 }
 
@@ -72,7 +72,7 @@
 
 .contact-container h2 {
     text-align: center;
-    color: #333;
+    color: #998c7f;
     margin-bottom: 20px;
 }
 
@@ -83,7 +83,7 @@
 .contact-form label {
     display: block;
     margin-bottom: 5px;
-    color: #333;
+    color: #998c7f;
     font-weight: bold;
 }
 
@@ -99,7 +99,7 @@
 .contact-form input:focus,
 .contact-form textarea:focus {
     outline: none;
-    border-color: #a48d7e;
+    border-color: #998c7f;
 }
 
 .contact-form textarea {

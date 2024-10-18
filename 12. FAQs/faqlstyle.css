@@ -17,7 +17,7 @@
 
 .faq-question {
     font-size: 1.5rem;
-    color: #444;
+    color: #998c7f;
     cursor: pointer;
     background-color: #f2f2f2;
     padding: 10px;
@@ -26,16 +26,16 @@
 }
 
 .faq-answer {
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin-top: 10px;
     display: none;
     padding: 10px;
-    border-left: 3px solid #f29b6d;
+    border-left: 3px solid #8d7762d;
     background-color: #f9f9f9;
     border-radius: 5px;
 }
 
 .faq-question:hover {
-    background-color: #f29b6d;
+    background-color: #8d7762;
     color: white;
 }

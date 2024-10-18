@@ -39,12 +39,12 @@
 .card h3 {
     font-size: 1.5rem;
     margin-bottom: 10px;
-    color: #333;
+    color: #8d7762;
 }
 
 .card p {
     font-size: 1rem;
-    color: #666;
+    color: #998c7f;
 }
 
 @media (max-width: 768px) {
